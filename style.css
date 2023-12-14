@@ -3,7 +3,7 @@ html {
     color: #F4F6FC;
 }
 body{
-    background: #050A30;
+    background: rgb(15, 40, 57);
     font-family: 'Merriweather', serif;
 }
 html, body{
@@ -121,7 +121,7 @@ svg {
     animation: stroke-offset 5.5s infinite linear;
 }
 .text-copy:nth-child(1){
-  stroke: aqua;
+  stroke: rgb(8, 8, 8);
   animation-delay: -1;
 }
 .text-copy:nth-child(2){
